@@ -27,8 +27,10 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
+TODO: Do a deployment (2020-11-16)
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+TODO: use and understand eject
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
@@ -68,3 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+TODO reproduce dockercontainer somewhere else (2020-11-16)
+docker start efcd25e3b8e1

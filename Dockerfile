@@ -20,3 +20,7 @@ COPY . ./
 
 # start app
 CMD ["npm", "start"]
+
+
+# TODO: rewrite this Dockerfile for me (2020-11-16)s
+# http://localhost:3001/
